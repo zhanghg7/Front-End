@@ -1,0 +1,10 @@
+[package]
+name = "native"
+version = "0.0.1"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+napi = "0.1.1"
+napi-derive = "0.1.1"

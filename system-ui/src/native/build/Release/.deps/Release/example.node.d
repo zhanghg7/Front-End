@@ -1,0 +1,1 @@
+cmd_Release/example.node := c++ -bundle -undefined dynamic_lookup -Wl,-no_pie -Wl,-search_paths_first -mmacosx-version-min=10.7 -arch x86_64 -L./Release -stdlib=libc++  -o Release/example.node Release/obj.target/example/src/binding.o ../target/release/libnative.a
