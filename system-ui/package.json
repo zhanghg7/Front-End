@@ -57,7 +57,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "electron": "^6.0.12",
     "ffi": "^2.3.0",
     "qs": "^6.9.0",
