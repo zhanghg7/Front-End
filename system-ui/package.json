@@ -74,7 +74,7 @@
     "@types/node": "^12.7.12",
     "@types/qs": "^6.5.3",
     "@types/webpack-env": "^1.14.1",
-    "ajv": "^6.5.0",
+    "ajv": "^6.12.3",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.3",
     "babel-loader": "^7.1.4",
